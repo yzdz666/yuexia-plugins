@@ -14,7 +14,11 @@
         "url": "https://github.com/example/plugin-quote"
       },
       "license": "MIT",
-      "tags": ["工具", "签到", "测试"],
+      "tags": [
+        "工具",
+        "签到",
+        "测试"
+      ],
       "min_framework_version": "1.0.0",
       "category": "功能"
     },
@@ -29,7 +33,10 @@
         "url": "https://github.com/example/plugin-music"
       },
       "license": "MIT",
-      "tags": ["音乐", "娱乐"],
+      "tags": [
+        "音乐",
+        "娱乐"
+      ],
       "min_framework_version": "1.0.0",
       "category": "娱乐"
     },
@@ -44,7 +51,10 @@
         "url": "https://github.com/example/plugin-sendtest"
       },
       "license": "MIT",
-      "tags": ["测试", "管理"],
+      "tags": [
+        "测试",
+        "管理"
+      ],
       "min_framework_version": "1.0.0",
       "category": "管理"
     },
@@ -59,9 +69,30 @@
         "url": "https://github.com/example/plugin-arkcard"
       },
       "license": "MIT",
-      "tags": ["卡片", "消息"],
+      "tags": [
+        "卡片",
+        "消息"
+      ],
       "min_framework_version": "1.0.0",
       "category": "功能"
+    },
+    {
+      "name": "hello-world",
+      "title": "Hello World 测试插件",
+      "description": "一个简单的测试插件，用于验证插件市场同步功能是否正常工作",
+      "version": "1.0.0",
+      "author": "月下",
+      "repository": {
+        "type": "github",
+        "url": "https://github.com/example/plugin-helloworld"
+      },
+      "license": "MIT",
+      "tags": [
+        "测试",
+        "示例"
+      ],
+      "min_framework_version": "1.0.0",
+      "category": "工具"
     }
   ]
 }
